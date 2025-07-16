@@ -5,6 +5,5 @@
 <h2>Esse foi um Projeto que apredendi no DEVCLUB</h2>
 <P>Tecnologias utilizadas </P>
 <P>HTML CSS e JAVA SCRIPY</P>
-
-<img = src"https://github.com/Elizeu25/conversor-de-moedas/blob/main/Projeto%20conversor%20de%20moedas.PNG?raw=true".>
+<img src="https://github.com/Elizeu25/conversor-de-moedas/blob/main/Projeto%20conversor%20de%20moedas.PNG?raw=true"/>
 
